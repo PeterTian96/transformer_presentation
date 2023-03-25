@@ -94,3 +94,15 @@ The primary result of the study is that a BLEU score of 34.81 was achieved on th
 The left plot shows the performance of the system as a function of sentence length, where the x-axis corresponds to the test sentences sorted by their length and is marked by the actual sequence lengths. There is no degradation on sentences with less than 35 words, there is only a minor degradation on the longest sentences. The right plot shows the LSTM’s performance on sentences with progressively more rare words, where the x-axis corresponds to the test sentences sorted by their “average word frequency rank”
 
 ## Critical Thinking
+1. **Incomplete Explanation of the Model's Improvement:**
+
+Although the authors offer a hypothesis on why reversing the source sentences led to improved LSTM performance, they fail to provide a comprehensive explanation. Thus, further investigation is necessary to enhance the model's effectiveness. Additionally, it remains unclear whether the reversal of source sentences impacted the performance of the DNN.
+
+2. **Limitation in Training Dataset:**
+
+A fixed vocabulary for both languages was used in the model, simplifying the process but potentially leading to inaccuracies in translation. This limitation does not accurately reflect the full range of words used in the languages being translated, making it imperative to improve the model's accuracy.
+
+3. **Need for More Studies:**
+
+The model's impressive results on a specific translation task cannot guarantee its performance on other sequence-to-sequence problems. It is crucial to explore whether the model can handle out-of-vocabulary words or different languages with varying syntax and grammar rules.
+
