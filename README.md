@@ -16,7 +16,9 @@ The paper addresses the problem of machine translation, which involves translati
 ## Modeling and Structure
 
 **DNN VS. LSTM** 
+
 **DNN**
+
 Recurrent neural networks is a natural generalization of feedforward neural networks to sequences. Given a sequence of inputs, a standard RNN computes a sequence of outputs by iterating the following equation
 
 <img width="556" alt="Screenshot 2023-03-25 at 10 57 39 AM" src="https://user-images.githubusercontent.com/89152255/227728236-a7b81ced-0eb3-449d-9bb1-21a70ad93e06.png">
