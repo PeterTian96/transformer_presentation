@@ -92,3 +92,5 @@ The primary result of the study is that a BLEU score of 34.81 was achieved on th
 <img width="1091" alt="Screenshot 2023-03-25 at 2 32 36 PM" src="https://user-images.githubusercontent.com/89152255/227737722-ca9693fd-a6ed-4691-b1cd-a6bb4d90876e.png">
 
 The left plot shows the performance of the system as a function of sentence length, where the x-axis corresponds to the test sentences sorted by their length and is marked by the actual sequence lengths. There is no degradation on sentences with less than 35 words, there is only a minor degradation on the longest sentences. The right plot shows the LSTM’s performance on sentences with progressively more rare words, where the x-axis corresponds to the test sentences sorted by their “average word frequency rank”
+
+## Critical Thinking
