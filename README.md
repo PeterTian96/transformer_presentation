@@ -39,6 +39,6 @@ The LSTM computes this conditional probability by first obtaining the fixed-dime
 
 
 
-**Approach:** 
+**Approach and Imporvement:** 
 
 
