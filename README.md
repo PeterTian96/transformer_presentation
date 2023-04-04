@@ -110,5 +110,5 @@ The model's impressive results on a specific translation task cannot guarantee i
 
 ## Video Record:
 
-https://youtu.be/EF5z95QruS0
+[![Watch the video](https://youtu.be/EF5z95QruS0)
 
