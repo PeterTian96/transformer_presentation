@@ -104,5 +104,11 @@ A fixed vocabulary for both languages was used in the model, simplifying the pro
 
 3. **Need for More Studies:**
 
+
 The model's impressive results on a specific translation task cannot guarantee its performance on other sequence-to-sequence problems. It is crucial to explore whether the model can handle out-of-vocabulary words or different languages with varying syntax and grammar rules.
+
+
+## Video Record:
+
+https://youtu.be/EF5z95QruS0
 
