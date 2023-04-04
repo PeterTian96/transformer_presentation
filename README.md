@@ -32,7 +32,7 @@ While RNN could work in principle as RNN is provided with all the relevant infor
 
 **LSTM**
 
-The authors chose to use LSTMs as LSTMS are better at handling long-term dependencies. TAn LSTM is a type of neural network that can predict the likelihood of a sequence of outputs (y1, y2,...yT′) based on a given sequence of inputs (x1, x2,...,xT), even if the length of the output sequence is different from the length of the input sequence.
+The authors chose to use LSTMs as LSTMS are better at handling long-term dependencies. An LSTM is a type of neural network that can predict the likelihood of a sequence of outputs (y1, y2,...yT′) based on a given sequence of inputs (x1, x2,...,xT), even if the length of the output sequence is different from the length of the input sequence.
 
 <img width="757" alt="Screenshot 2023-03-25 at 12 23 51 PM" src="https://user-images.githubusercontent.com/89152255/227732240-f5069f44-f946-42a3-aaaf-639c08736144.png">
 
