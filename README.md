@@ -55,7 +55,7 @@ In this sample, the model reads an input sentence “ABC” and produces “WXYZ
 A useful property of the LSTM is that it learns to map an input sentence of variable length into a fixed-dimensional vector representation. Given that translations tend to be paraphrases of the source sentences, the translation objective encourages the LSTM to find sentence representations that capture their meaning, as sentences with similar meanings are close to each other while different sentences meanings will be far. 
 
 
-### **Approach and Imporvement:** 
+### **Approach and Improvement:** 
 
 **Dataset:** The WMT’14 English to French dataset
 
